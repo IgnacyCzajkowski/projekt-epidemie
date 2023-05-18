@@ -8,4 +8,6 @@ file.truncate()
 for i in range(liczba_symulacji):
     print(liczba_symulacji - i)
     main.main()
-plot.main()    
+plot.main()   
+# ttoo fsfdsfsfd 
+#sdsdsdsdsdsdsd
